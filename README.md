@@ -58,7 +58,11 @@ partie medecin :
 
 
 --------------------------------------------------------------------------------------------------
-partie patient
+
+
+partie patient:
+
+
 
 ![home](https://github.com/user-attachments/assets/f697e8c1-d495-4770-85ee-1fdf017627ff)
 ![home2](https://github.com/user-attachments/assets/88692f72-dcb9-4cdd-aa09-10fa96695580)
@@ -75,6 +79,9 @@ partie patient
 ![chat](https://github.com/user-attachments/assets/a3fe756e-51bc-4815-8dec-fa4891ab55a3)
 ![chat2](https://github.com/user-attachments/assets/d17feeb5-c4dc-4bfd-9a1a-11915ffa4fa9)
 ![chat4](https://github.com/user-attachments/assets/10f3ac7b-5d9a-4203-a09c-4991fc646b5f)
+
+
+
 
 
 
