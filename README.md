@@ -1,3 +1,14 @@
+Télécharger l'Application :
+Téléchargez ONCOGUIDE dès maintenant en suivant ce lien.
+
+https://drive.google.com/file/d/1BABKsET6B-KotGHeJZZQ98a3tMNzTQOs/view?usp=drive_link
+
+
+
+
+
+
+
 # patient_app
 
 ONCOGUIDE - Mobile Application for Cancer Patients
@@ -85,9 +96,6 @@ partie patient:
 
 
 
-Télécharger l'Application :
-Téléchargez ONCOGUIDE dès maintenant en suivant ce lien.
 
-https://drive.google.com/file/d/1BABKsET6B-KotGHeJZZQ98a3tMNzTQOs/view?usp=drive_link
 
 
