@@ -1,0 +1,1 @@
+ C:\\PFE\\patient_app\\.dart_tool\\flutter_build\\2ac08ed9e4e9c3a577ce0432910beba0\\native_assets.yaml: 

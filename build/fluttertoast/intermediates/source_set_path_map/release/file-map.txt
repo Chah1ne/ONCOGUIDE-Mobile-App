@@ -1,0 +1,12 @@
+io.github.ponnamkarthik.toast.fluttertoast-pngs-0 C:\PFE\patient_app\build\fluttertoast\generated\res\pngs\release
+io.github.ponnamkarthik.toast.fluttertoast-resValues-1 C:\PFE\patient_app\build\fluttertoast\generated\res\resValues\release
+io.github.ponnamkarthik.toast.fluttertoast-rs-2 C:\PFE\patient_app\build\fluttertoast\generated\res\rs\release
+io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-3 C:\PFE\patient_app\build\fluttertoast\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-4 C:\PFE\patient_app\build\fluttertoast\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.github.ponnamkarthik.toast.fluttertoast-merged_res-5 C:\PFE\patient_app\build\fluttertoast\intermediates\merged_res\release
+io.github.ponnamkarthik.toast.fluttertoast-jetified-annotation-experimental-1.1.0-6 C:\Users\USER\.gradle\caches\transforms-3\09db32a73384ac2dccccf916d7dc0262\transformed\jetified-annotation-experimental-1.1.0\res
+io.github.ponnamkarthik.toast.fluttertoast-core-1.6.0-7 C:\Users\USER\.gradle\caches\transforms-3\168e459aae59caaab0d2c703cf9d67ab\transformed\core-1.6.0\res
+io.github.ponnamkarthik.toast.fluttertoast-jetified-window-1.0.0-beta04-8 C:\Users\USER\.gradle\caches\transforms-3\29fe38a5fd6c3bf46cd8e59c2b63489e\transformed\jetified-window-1.0.0-beta04\res
+io.github.ponnamkarthik.toast.fluttertoast-jetified-window-java-1.0.0-beta04-9 C:\Users\USER\.gradle\caches\transforms-3\978180320ed1d29d66a82edc9d24751e\transformed\jetified-window-java-1.0.0-beta04\res
+io.github.ponnamkarthik.toast.fluttertoast-main-10 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\fluttertoast-8.2.4\android\src\main\res
+io.github.ponnamkarthik.toast.fluttertoast-release-11 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\fluttertoast-8.2.4\android\src\release\res

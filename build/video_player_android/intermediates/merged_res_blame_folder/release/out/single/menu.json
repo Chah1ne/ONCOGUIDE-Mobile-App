@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "io.flutter.plugins.videoplayer.video_player_android-merged_res-4:/menu/example_menu.xml",
+        "source": "io.flutter.plugins.videoplayer.video_player_android-core-1.7.0-10:/menu/example_menu.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.videoplayer.video_player_android-merged_res-4:/menu/example_menu2.xml",
+        "source": "io.flutter.plugins.videoplayer.video_player_android-core-1.7.0-10:/menu/example_menu2.xml"
+    }
+]

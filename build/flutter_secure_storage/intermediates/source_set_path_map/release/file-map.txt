@@ -1,0 +1,13 @@
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-pngs-0 C:\PFE\patient_app\build\flutter_secure_storage\generated\res\pngs\release
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-resValues-1 C:\PFE\patient_app\build\flutter_secure_storage\generated\res\resValues\release
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-rs-2 C:\PFE\patient_app\build\flutter_secure_storage\generated\res\rs\release
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-mergeReleaseResources-3 C:\PFE\patient_app\build\flutter_secure_storage\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-mergeReleaseResources-4 C:\PFE\patient_app\build\flutter_secure_storage\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-merged_res-5 C:\PFE\patient_app\build\flutter_secure_storage\intermediates\merged_res\release
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-annotation-experimental-1.1.0-6 C:\Users\USER\.gradle\caches\transforms-3\09db32a73384ac2dccccf916d7dc0262\transformed\jetified-annotation-experimental-1.1.0\res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-core-1.6.0-7 C:\Users\USER\.gradle\caches\transforms-3\168e459aae59caaab0d2c703cf9d67ab\transformed\core-1.6.0\res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-security-crypto-1.1.0-alpha06-8 C:\Users\USER\.gradle\caches\transforms-3\26443612512da6ef5f598bcaecd00a2e\transformed\jetified-security-crypto-1.1.0-alpha06\res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-window-1.0.0-beta04-9 C:\Users\USER\.gradle\caches\transforms-3\29fe38a5fd6c3bf46cd8e59c2b63489e\transformed\jetified-window-1.0.0-beta04\res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-window-java-1.0.0-beta04-10 C:\Users\USER\.gradle\caches\transforms-3\978180320ed1d29d66a82edc9d24751e\transformed\jetified-window-java-1.0.0-beta04\res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-main-11 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-8.1.0\android\src\main\res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-release-12 C:\Users\USER\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-8.1.0\android\src\release\res

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.pichillilorenzo.flutter_inappwebview_android-merged_res-4:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.pichillilorenzo.flutter_inappwebview_android-appcompat-1.6.1-23:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.pichillilorenzo.flutter_inappwebview_android-merged_res-4:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "com.pichillilorenzo.flutter_inappwebview_android-appcompat-1.6.1-23:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]
