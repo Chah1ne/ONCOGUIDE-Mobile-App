@@ -5,26 +5,53 @@ https://drive.google.com/file/d/1BABKsET6B-KotGHeJZZQ98a3tMNzTQOs/view?usp=drive
 
 
 
+ONCOGUIDE: Votre Partenaire dans la Gestion du Cancer**
 
+ONCOGUIDE est une application mobile innovante conçue pour transformer la manière dont les patients atteints de cancer gèrent leur traitement et leur suivi médical. En facilitant la communication entre les patients et les médecins, ONCOGUIDE offre une suite complète d'outils essentiels pour un suivi efficace des traitements et une amélioration de la qualité de vie.
 
+---
+**Fonctionnalités pour les Patients :**
 
+- **Suivi des Traitements :**  
+  Gérez et suivez vos traitements de chimiothérapie et de radiothérapie facilement.
 
-# patient_app
+- **Rappels de Médicaments :**  
+  Recevez des notifications pour vous rappeler de prendre vos médicaments à temps.
 
-ONCOGUIDE - Mobile Application for Cancer Patients
-ONCOGUIDE est une application mobile innovante conçue pour aider les patients atteints de cancer à gérer leur traitement et leur suivi médical. Cette application vise à améliorer la communication entre les patients et les médecins, tout en fournissant des outils essentiels pour le suivi des traitements.
+- **Journal de Santé :**  
+  Enregistrez vos symptômes et effets secondaires quotidiens pour un suivi personnalisé de votre santé.
 
-Fonctionnalités pour les Patients :
-Suivi des Traitements : Les patients peuvent enregistrer et suivre leurs traitements de chimiothérapie et radiothérapie.
-Rappels de Médicaments : Notifications pour rappeler aux patients de prendre leurs médicaments.
-Journal de Santé : Les patients peuvent enregistrer leurs symptômes et effets secondaires quotidiens.
-Accès aux Documents Médicaux : Stockage sécurisé et accès facile aux documents médicaux.
-Fonctionnalités pour les Médecins :
-Suivi des Patients : Visualisation des traitements et des journaux de santé des patients.
-Communication Sécurisée : Messagerie sécurisée pour communiquer directement avec les patients.
-Gestion des Rendez-vous : Planification et gestion des rendez-vous médicaux.
-Besoins et Acteurs
-Pour plus de détails sur les besoins des utilisateurs (patients et médecins) et les fonctionnalités spécifiques de chaque acteur, consultez ce lien.
+- **Accès aux Documents Médicaux :**  
+  Stockez de manière sécurisée et accédez facilement à vos documents médicaux importants.
+
+- **Gestion des Rendez-vous :**  
+  Planifiez et suivez vos rendez-vous médicaux directement depuis l'application, avec des rappels pour ne rien manquer.
+
+- **Accès à la Partie Éducation :**  
+  Accédez à des ressources éducatives créées par vos médecins pour mieux comprendre votre traitement et votre condition.
+
+- **Soutien Psychologique :**  
+  Bénéficiez de conseils et de ressources pour soutenir votre bien-être mental tout au long de votre parcours de traitement.
+
+---
+
+**Fonctionnalités pour les Médecins :**
+
+- **Suivi des Patients :**  
+  Visualisez les traitements et les journaux de santé de vos patients pour un suivi plus précis.
+
+- **Communication Sécurisée :**  
+  Utilisez la messagerie sécurisée pour communiquer directement et efficacement avec vos patients.
+
+- **Consulter les Effets Indésirables :**  
+  Consultez facilement les effets indésirables signalés par vos patients pour ajuster leurs traitements si nécessaire.
+
+- **Création de Contenu Éducatif :**  
+  Fournissez des ressources éducatives personnalisées pour vos patients, afin de les aider à mieux comprendre leur état de santé et leur traitement.
+
+---
+
+ONCOGUIDE vise à offrir une expérience sans précédent dans la gestion du cancer, en mettant l'accent sur l'amélioration de la qualité de vie des patients et l'efficacité des soins médicaux. Téléchargez l'application dès aujourd'hui et faites le premier pas vers une meilleure gestion de votre santé.
 
 https://asqii.tn/en/oncoguide/
 
