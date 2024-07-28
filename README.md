@@ -5,7 +5,7 @@ https://drive.google.com/file/d/1BABKsET6B-KotGHeJZZQ98a3tMNzTQOs/view?usp=drive
 
 
 
-ONCOGUIDE: Votre Partenaire dans la Gestion du Cancer**
+ONCOGUIDE: Votre Partenaire dans la Gestion du Cancer
 
 ONCOGUIDE est une application mobile innovante conçue pour transformer la manière dont les patients atteints de cancer gèrent leur traitement et leur suivi médical. En facilitant la communication entre les patients et les médecins, ONCOGUIDE offre une suite complète d'outils essentiels pour un suivi efficace des traitements et une amélioration de la qualité de vie.
 
